@@ -1,3 +1,5 @@
+set history=700
+
 set nu
 set hlsearch
 set magic
